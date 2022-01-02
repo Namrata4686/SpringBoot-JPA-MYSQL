@@ -1,0 +1,21 @@
+{
+    "customer":{
+        "name": "namrata",
+        "email": "asc@gmail.com",
+        "gender": "Female",
+        "products": [
+        	{
+        	"id":111,
+        	"name":"usb",
+        	"quantity":1,
+        	"price":500
+        	},
+        	{
+        	"id":112,
+        	"name":"mause",
+        	"quantity":1,
+        	"price":1500
+        	}
+        	]
+    }
+}
